@@ -8,4 +8,4 @@
 # 1. PHP, MySql, composer 설
 # 2. 압축 풀고 프로젝트 폴더에서 env에서 db 세팅 후 migrate: php artisan migrate
 # 3. php artisan server 실행 
-# 4. 브라우저에서 localhost:8000 또는 http://localhost/laravel_board/public/products url로 확인가능합니다
+# 4. 브라우저에서 localhost:8000 또는 http://localhost/laravel_board/public/products 확인가능합니다
