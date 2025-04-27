@@ -1,8 +1,8 @@
 <?php
     define('DB_HOST', 'localhost');
-    define('DB_USER', 'any78382');
-    define('DB_PASSWORD', 'gf8073ru');
-    define('DB_NAME', 'any78382');
+    define('DB_USER', '');
+    define('DB_PASSWORD', '');
+    define('DB_NAME', '');
     
     define('USER_CREATED', 101);
     define('USER_EXISTS', 102);
